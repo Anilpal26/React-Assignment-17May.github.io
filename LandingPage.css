@@ -1,0 +1,39 @@
+body{
+    background: rgba(170, 244, 121, 0.667);
+}
+
+h1{
+    margin-top: 100px;
+    color: red;
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+h2{
+    color: green;
+    text-align: center;
+}
+p{
+    width: 70%;
+    text-align: justify;
+    font-size: 20px;
+    margin-left: 220px;
+}
+
+button{
+    margin-left: 680px;
+    margin-top: 50px;
+    width: 180px;
+    height: 50px;
+    border: 1px solid transparent;
+    border-radius: 20px;
+    background: rgb(98, 237, 114);
+    color: red;
+    font-size: 15px;
+}
+button:hover{
+    background: rgb(119, 255, 0);
+    transition: 1s;
+}
